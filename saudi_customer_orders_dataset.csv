@@ -1,0 +1,251 @@
+order_id,customer_id,city,product_category,quantity,order_amount,payment_method,order_date
+ORD1,CUST1041,Jeddah,Sports,1,527.73,Credit Card,2024-04-03
+ORD2,CUST1074,Riyadh,Beauty,1,187.46,Cash on Delivery,2024-04-17
+ORD3,CUST1008,Jeddah,Electronics,1,449.82,Credit Card,2024-02-27
+ORD4,CUST1074,Riyadh,Beauty,1,476.72,Mada,2024-01-12
+ORD5,CUST1071,Jeddah,Home Appliances,5,346.93,Credit Card,2024-05-26
+ORD6,CUST1039,Medina,Clothing,5,100.38,Mada,2024-04-05
+ORD7,CUST1012,Medina,Electronics,5,460.21,Mada,2024-05-07
+ORD8,CUST1068,Mecca,Home Appliances,4,383.17,Apple Pay,2024-03-17
+ORD9,CUST1031,Jeddah,Clothing,3,83.85,Cash on Delivery,2024-03-28
+ORD10,CUST1057,Dammam,Beauty,1,784.54,Cash on Delivery,2024-02-12
+ORD11,CUST1043,Jeddah,Sports,1,348.92,Apple Pay,2024-03-28
+ORD12,CUST1044,Medina,Sports,4,472.32,Credit Card,2024-01-24
+ORD13,CUST1034,Mecca,Electronics,3,67.32,Cash on Delivery,2024-03-13
+ORD14,CUST1049,Khobar,Home Appliances,4,37.6,Apple Pay,2024-02-13
+ORD15,CUST1078,Riyadh,Sports,3,65.98,Mada,2024-03-04
+ORD16,CUST1050,Mecca,Sports,4,82.85,Cash on Delivery,2024-05-20
+ORD17,CUST1035,Jeddah,Sports,3,693.91,Cash on Delivery,2024-04-01
+ORD18,CUST1048,Jeddah,Clothing,2,84.73,Mada,2024-06-17
+ORD19,CUST1029,Riyadh,Sports,2,668.25,Apple Pay,2024-03-13
+ORD20,CUST1000,Jeddah,Sports,5,436.98,Apple Pay,2024-02-02
+ORD21,CUST1065,Medina,Electronics,5,376.18,Cash on Delivery,2024-04-11
+ORD22,CUST1051,Mecca,Electronics,4,395.59,Credit Card,2024-02-18
+ORD23,CUST1008,Jeddah,Sports,3,146.6,Credit Card,2024-01-27
+ORD24,CUST1000,Medina,Clothing,3,438.56,Credit Card,2024-01-19
+ORD25,CUST1026,Medina,Sports,3,135.87,Apple Pay,2024-06-03
+ORD26,CUST1046,Mecca,Electronics,4,109.98,Cash on Delivery,2024-05-02
+ORD27,CUST1061,Dammam,Electronics,3,132.41,Apple Pay,2024-05-02
+ORD28,CUST1020,Medina,Electronics,5,180.07,Apple Pay,2024-02-07
+ORD29,CUST1069,Riyadh,Beauty,1,252.51,Apple Pay,2024-05-12
+ORD30,CUST1046,Jeddah,Home Appliances,5,622.11,Apple Pay,2024-06-11
+ORD31,CUST1028,Medina,Clothing,4,648.74,Mada,2024-02-21
+ORD32,CUST1066,Mecca,Home Appliances,1,590.18,Apple Pay,2024-04-30
+ORD33,CUST1033,Jeddah,Beauty,4,766.08,Apple Pay,2024-04-03
+ORD34,CUST1010,Jeddah,Electronics,2,196.94,Apple Pay,2024-02-22
+ORD35,CUST1061,Medina,Beauty,4,675.54,Apple Pay,2024-06-13
+ORD36,CUST1010,Khobar,Electronics,2,729.63,Cash on Delivery,2024-02-15
+ORD37,CUST1055,Khobar,Home Appliances,4,87.66,Cash on Delivery,2024-04-12
+ORD38,CUST1010,Khobar,Clothing,2,152.6,Credit Card,2024-02-08
+ORD39,CUST1075,Mecca,Clothing,5,497.03,Cash on Delivery,2024-06-17
+ORD40,CUST1044,Jeddah,Beauty,1,447.66,Credit Card,2024-06-15
+ORD41,CUST1013,Medina,Clothing,2,358.37,Mada,2024-01-08
+ORD42,CUST1032,Jeddah,Home Appliances,5,410.91,Apple Pay,2024-03-07
+ORD43,CUST1069,Mecca,Clothing,3,67.51,Cash on Delivery,2024-06-18
+ORD44,CUST1074,Medina,Sports,5,665.17,Mada,2024-05-16
+ORD45,CUST1019,Medina,Beauty,4,34.59,Mada,2024-06-04
+ORD46,CUST1000,Jeddah,Clothing,5,130.42,Credit Card,2024-05-22
+ORD47,CUST1007,Dammam,Beauty,4,433.97,Credit Card,2024-05-23
+ORD48,CUST1007,Jeddah,Clothing,1,236.0,Cash on Delivery,2024-05-23
+ORD49,CUST1003,Riyadh,Sports,5,273.98,Mada,2024-06-26
+ORD50,CUST1035,Mecca,Beauty,4,435.96,Mada,2024-06-27
+ORD51,CUST1066,Dammam,Beauty,2,716.35,Cash on Delivery,2024-02-05
+ORD52,CUST1053,Riyadh,Sports,1,364.85,Mada,2024-04-19
+ORD53,CUST1009,Jeddah,Home Appliances,2,631.47,Apple Pay,2024-02-06
+ORD54,CUST1032,Jeddah,Sports,1,191.28,Cash on Delivery,2024-05-04
+ORD55,CUST1020,Khobar,Clothing,4,145.94,Cash on Delivery,2024-03-27
+ORD56,CUST1053,Jeddah,Home Appliances,3,268.45,Credit Card,2024-03-27
+ORD57,CUST1070,Mecca,Sports,4,568.46,Apple Pay,2024-05-12
+ORD58,CUST1079,Dammam,Beauty,1,769.4,Mada,2024-01-27
+ORD59,CUST1010,Dammam,Home Appliances,2,50.88,Apple Pay,2024-02-03
+ORD60,CUST1054,Khobar,Home Appliances,5,336.64,Cash on Delivery,2024-06-28
+ORD61,CUST1041,Riyadh,Home Appliances,2,64.87,Cash on Delivery,2024-01-19
+ORD62,CUST1034,Riyadh,Electronics,1,645.27,Mada,2024-01-18
+ORD63,CUST1033,Riyadh,Sports,5,29.01,Cash on Delivery,2024-03-09
+ORD64,CUST1079,Jeddah,Electronics,2,430.99,Credit Card,2024-02-11
+ORD65,CUST1033,Riyadh,Clothing,3,177.38,Apple Pay,2024-05-15
+ORD66,CUST1026,Dammam,Sports,2,410.07,Apple Pay,2024-03-29
+ORD67,CUST1002,Dammam,Electronics,5,31.97,Mada,2024-05-11
+ORD68,CUST1060,Jeddah,Sports,4,102.9,Cash on Delivery,2024-05-19
+ORD69,CUST1050,Medina,Home Appliances,2,556.44,Apple Pay,2024-02-20
+ORD70,CUST1017,Mecca,Home Appliances,2,785.87,Credit Card,2024-01-19
+ORD71,CUST1032,Mecca,Clothing,4,63.21,Apple Pay,2024-06-02
+ORD72,CUST1031,Khobar,Home Appliances,2,55.29,Mada,2024-03-09
+ORD73,CUST1057,Riyadh,Home Appliances,3,304.03,Apple Pay,2024-03-03
+ORD74,CUST1004,Dammam,Clothing,1,298.14,Apple Pay,2024-04-07
+ORD75,CUST1010,Mecca,Home Appliances,2,412.16,Mada,2024-05-09
+ORD76,CUST1000,Riyadh,Home Appliances,2,657.29,Cash on Delivery,2024-05-30
+ORD77,CUST1005,Mecca,Electronics,2,253.72,Credit Card,2024-05-29
+ORD78,CUST1067,Jeddah,Beauty,3,323.82,Cash on Delivery,2024-02-08
+ORD79,CUST1036,Khobar,Beauty,1,521.71,Cash on Delivery,2024-06-28
+ORD80,CUST1064,Jeddah,Beauty,5,607.24,Credit Card,2024-06-24
+ORD81,CUST1074,Khobar,Clothing,1,86.37,Mada,2024-06-12
+ORD82,CUST1046,Riyadh,Sports,5,671.94,Credit Card,2024-06-09
+ORD83,CUST1002,Khobar,Beauty,4,550.92,Apple Pay,2024-01-01
+ORD84,CUST1058,Riyadh,Beauty,1,720.33,Credit Card,2024-05-01
+ORD85,CUST1032,Riyadh,Home Appliances,2,203.13,Mada,2024-06-15
+ORD86,CUST1058,Mecca,Sports,3,79.86,Credit Card,2024-06-06
+ORD87,CUST1025,Riyadh,Beauty,3,134.99,Apple Pay,2024-06-08
+ORD88,CUST1072,Jeddah,Electronics,4,396.29,Apple Pay,2024-06-21
+ORD89,CUST1012,Khobar,Clothing,3,547.05,Apple Pay,2024-04-28
+ORD90,CUST1059,Mecca,Electronics,5,794.77,Mada,2024-03-20
+ORD91,CUST1010,Mecca,Electronics,1,245.88,Cash on Delivery,2024-03-09
+ORD92,CUST1049,Jeddah,Clothing,1,78.2,Mada,2024-05-14
+ORD93,CUST1033,Dammam,Clothing,5,490.63,Apple Pay,2024-01-29
+ORD94,CUST1046,Jeddah,Sports,4,720.21,Cash on Delivery,2024-01-07
+ORD95,CUST1020,Riyadh,Sports,4,551.64,Apple Pay,2024-02-06
+ORD96,CUST1053,Dammam,Sports,3,266.54,Credit Card,2024-03-24
+ORD97,CUST1043,Mecca,Electronics,2,753.11,Credit Card,2024-03-15
+ORD98,CUST1032,Dammam,Electronics,5,326.46,Credit Card,2024-04-02
+ORD99,CUST1054,Dammam,Electronics,1,238.9,Apple Pay,2024-06-11
+ORD100,CUST1019,Jeddah,Home Appliances,3,360.27,Mada,2024-04-05
+ORD101,CUST1054,Riyadh,Sports,5,732.47,Mada,2024-01-21
+ORD102,CUST1006,Khobar,Sports,2,371.67,Apple Pay,2024-05-04
+ORD103,CUST1006,Medina,Clothing,4,153.19,Apple Pay,2024-03-13
+ORD104,CUST1038,Dammam,Home Appliances,2,336.84,Apple Pay,2024-05-03
+ORD105,CUST1071,Khobar,Sports,2,113.4,Credit Card,2024-02-23
+ORD106,CUST1064,Mecca,Beauty,3,191.62,Cash on Delivery,2024-04-19
+ORD107,CUST1017,Medina,Clothing,2,210.39,Apple Pay,2024-05-22
+ORD108,CUST1011,Dammam,Clothing,5,307.28,Mada,2024-01-06
+ORD109,CUST1052,Mecca,Sports,2,601.76,Cash on Delivery,2024-03-10
+ORD110,CUST1043,Riyadh,Sports,3,236.46,Mada,2024-06-24
+ORD111,CUST1064,Medina,Clothing,2,92.23,Cash on Delivery,2024-04-12
+ORD112,CUST1057,Mecca,Home Appliances,1,681.97,Mada,2024-01-09
+ORD113,CUST1054,Khobar,Sports,4,775.26,Credit Card,2024-01-19
+ORD114,CUST1050,Medina,Sports,2,778.35,Credit Card,2024-02-27
+ORD115,CUST1019,Jeddah,Beauty,1,778.07,Cash on Delivery,2024-01-22
+ORD116,CUST1070,Riyadh,Electronics,2,630.19,Credit Card,2024-06-14
+ORD117,CUST1038,Jeddah,Home Appliances,4,432.04,Credit Card,2024-01-26
+ORD118,CUST1009,Dammam,Beauty,2,755.96,Cash on Delivery,2024-03-07
+ORD119,CUST1028,Medina,Electronics,3,28.16,Cash on Delivery,2024-03-12
+ORD120,CUST1040,Khobar,Clothing,2,390.74,Mada,2024-01-08
+ORD121,CUST1052,Khobar,Home Appliances,2,63.14,Cash on Delivery,2024-06-21
+ORD122,CUST1053,Riyadh,Home Appliances,4,197.72,Apple Pay,2024-02-28
+ORD123,CUST1063,Riyadh,Home Appliances,3,580.3,Cash on Delivery,2024-02-20
+ORD124,CUST1000,Dammam,Beauty,4,72.6,Mada,2024-03-20
+ORD125,CUST1024,Jeddah,Sports,3,192.73,Credit Card,2024-06-08
+ORD126,CUST1063,Medina,Clothing,4,719.25,Cash on Delivery,2024-06-19
+ORD127,CUST1007,Medina,Clothing,1,739.1,Mada,2024-01-07
+ORD128,CUST1076,Jeddah,Sports,1,60.44,Mada,2024-04-10
+ORD129,CUST1057,Khobar,Home Appliances,1,591.52,Mada,2024-03-25
+ORD130,CUST1024,Jeddah,Beauty,1,602.12,Apple Pay,2024-06-19
+ORD131,CUST1048,Dammam,Home Appliances,1,365.1,Credit Card,2024-01-21
+ORD132,CUST1035,Riyadh,Home Appliances,1,347.74,Mada,2024-04-07
+ORD133,CUST1045,Dammam,Sports,4,88.45,Mada,2024-04-05
+ORD134,CUST1069,Mecca,Clothing,4,272.18,Credit Card,2024-06-10
+ORD135,CUST1052,Jeddah,Sports,1,51.71,Cash on Delivery,2024-01-17
+ORD136,CUST1007,Dammam,Clothing,5,602.88,Apple Pay,2024-04-02
+ORD137,CUST1034,Dammam,Beauty,3,54.0,Apple Pay,2024-03-17
+ORD138,CUST1000,Khobar,Beauty,1,734.84,Credit Card,2024-02-29
+ORD139,CUST1013,Mecca,Sports,4,764.05,Apple Pay,2024-04-20
+ORD140,CUST1063,Jeddah,Sports,3,162.69,Mada,2024-06-04
+ORD141,CUST1030,Dammam,Home Appliances,5,379.41,Credit Card,2024-05-11
+ORD142,CUST1025,Mecca,Clothing,1,212.9,Credit Card,2024-05-03
+ORD143,CUST1070,Medina,Home Appliances,4,145.34,Credit Card,2024-01-19
+ORD144,CUST1033,Medina,Electronics,4,182.51,Cash on Delivery,2024-04-24
+ORD145,CUST1022,Jeddah,Clothing,5,345.14,Mada,2024-05-17
+ORD146,CUST1015,Dammam,Home Appliances,3,237.93,Apple Pay,2024-03-06
+ORD147,CUST1033,Jeddah,Sports,2,212.99,Mada,2024-02-09
+ORD148,CUST1036,Medina,Clothing,4,274.54,Apple Pay,2024-03-03
+ORD149,CUST1064,Medina,Clothing,1,526.72,Cash on Delivery,2024-01-10
+ORD150,CUST1013,Riyadh,Sports,2,708.6,Cash on Delivery,2024-04-05
+ORD151,CUST1005,Dammam,Clothing,2,112.99,Mada,2024-01-20
+ORD152,CUST1047,Medina,Clothing,3,370.31,Credit Card,2024-01-28
+ORD153,CUST1076,Khobar,Beauty,1,292.77,Apple Pay,2024-03-28
+ORD154,CUST1018,Riyadh,Clothing,1,799.9,Mada,2024-01-03
+ORD155,CUST1041,Mecca,Home Appliances,3,164.41,Credit Card,2024-02-22
+ORD156,CUST1004,Mecca,Beauty,4,397.14,Credit Card,2024-04-11
+ORD157,CUST1070,Jeddah,Beauty,2,91.1,Cash on Delivery,2024-06-27
+ORD158,CUST1034,Mecca,Home Appliances,4,540.89,Credit Card,2024-03-20
+ORD159,CUST1072,Dammam,Sports,3,344.83,Mada,2024-04-10
+ORD160,CUST1051,Jeddah,Electronics,2,358.65,Cash on Delivery,2024-01-30
+ORD161,CUST1011,Mecca,Beauty,4,708.61,Mada,2024-02-03
+ORD162,CUST1001,Riyadh,Beauty,4,131.15,Credit Card,2024-05-26
+ORD163,CUST1079,Dammam,Beauty,3,153.91,Apple Pay,2024-02-11
+ORD164,CUST1066,Jeddah,Electronics,4,104.86,Mada,2024-03-18
+ORD165,CUST1016,Riyadh,Sports,5,265.33,Cash on Delivery,2024-01-23
+ORD166,CUST1079,Khobar,Clothing,2,519.45,Cash on Delivery,2024-06-06
+ORD167,CUST1025,Mecca,Clothing,1,461.03,Cash on Delivery,2024-05-12
+ORD168,CUST1020,Mecca,Home Appliances,2,115.98,Mada,2024-01-11
+ORD169,CUST1071,Khobar,Electronics,3,540.96,Credit Card,2024-04-09
+ORD170,CUST1076,Mecca,Beauty,3,682.23,Cash on Delivery,2024-03-19
+ORD171,CUST1074,Jeddah,Sports,3,323.59,Cash on Delivery,2024-05-08
+ORD172,CUST1056,Jeddah,Electronics,4,22.74,Cash on Delivery,2024-03-01
+ORD173,CUST1057,Medina,Sports,4,672.51,Cash on Delivery,2024-01-28
+ORD174,CUST1008,Jeddah,Home Appliances,1,355.87,Cash on Delivery,2024-05-09
+ORD175,CUST1065,Khobar,Electronics,2,51.71,Credit Card,2024-03-21
+ORD176,CUST1065,Riyadh,Electronics,4,606.61,Mada,2024-01-07
+ORD177,CUST1008,Medina,Electronics,4,171.09,Apple Pay,2024-02-12
+ORD178,CUST1028,Riyadh,Home Appliances,3,496.15,Mada,2024-03-23
+ORD179,CUST1078,Dammam,Sports,5,131.99,Cash on Delivery,2024-02-23
+ORD180,CUST1075,Dammam,Beauty,3,414.69,Apple Pay,2024-01-10
+ORD181,CUST1025,Jeddah,Sports,3,145.76,Apple Pay,2024-04-06
+ORD182,CUST1021,Dammam,Electronics,1,619.25,Apple Pay,2024-04-25
+ORD183,CUST1071,Medina,Beauty,1,557.21,Apple Pay,2024-05-17
+ORD184,CUST1050,Khobar,Home Appliances,3,226.51,Mada,2024-04-02
+ORD185,CUST1042,Riyadh,Sports,5,199.44,Credit Card,2024-03-16
+ORD186,CUST1066,Dammam,Home Appliances,5,518.61,Apple Pay,2024-01-01
+ORD187,CUST1004,Jeddah,Clothing,4,246.96,Cash on Delivery,2024-05-11
+ORD188,CUST1046,Riyadh,Clothing,5,400.95,Credit Card,2024-01-06
+ORD189,CUST1006,Riyadh,Beauty,1,296.87,Apple Pay,2024-05-16
+ORD190,CUST1028,Mecca,Beauty,2,254.9,Mada,2024-04-03
+ORD191,CUST1079,Mecca,Clothing,2,125.1,Mada,2024-04-25
+ORD192,CUST1012,Riyadh,Clothing,3,699.6,Cash on Delivery,2024-03-08
+ORD193,CUST1001,Riyadh,Beauty,5,716.29,Cash on Delivery,2024-06-03
+ORD194,CUST1066,Khobar,Sports,1,213.83,Credit Card,2024-01-16
+ORD195,CUST1068,Riyadh,Sports,2,164.81,Credit Card,2024-01-27
+ORD196,CUST1001,Medina,Beauty,2,532.3,Mada,2024-04-15
+ORD197,CUST1025,Medina,Beauty,4,521.3,Mada,2024-05-10
+ORD198,CUST1039,Riyadh,Home Appliances,4,508.25,Credit Card,2024-04-06
+ORD199,CUST1055,Khobar,Sports,4,82.77,Mada,2024-02-27
+ORD200,CUST1013,Dammam,Clothing,1,522.34,Apple Pay,2024-06-26
+ORD201,CUST1033,Khobar,Electronics,5,227.47,Cash on Delivery,2024-06-24
+ORD202,CUST1066,Dammam,Home Appliances,2,520.76,Credit Card,2024-05-09
+ORD203,CUST1001,Jeddah,Home Appliances,2,725.67,Mada,2024-03-24
+ORD204,CUST1024,Mecca,Home Appliances,4,488.96,Cash on Delivery,2024-04-30
+ORD205,CUST1067,Khobar,Electronics,4,688.87,Mada,2024-05-26
+ORD206,CUST1039,Jeddah,Sports,1,505.65,Mada,2024-02-07
+ORD207,CUST1004,Riyadh,Electronics,2,103.21,Apple Pay,2024-02-06
+ORD208,CUST1003,Riyadh,Electronics,1,127.95,Credit Card,2024-01-12
+ORD209,CUST1008,Medina,Home Appliances,5,175.46,Credit Card,2024-04-08
+ORD210,CUST1013,Jeddah,Clothing,1,178.47,Credit Card,2024-06-11
+ORD211,CUST1011,Khobar,Home Appliances,2,392.15,Credit Card,2024-06-14
+ORD212,CUST1026,Dammam,Home Appliances,3,282.48,Credit Card,2024-03-30
+ORD213,CUST1032,Dammam,Electronics,3,578.29,Apple Pay,2024-06-03
+ORD214,CUST1064,Mecca,Home Appliances,1,502.26,Cash on Delivery,2024-01-08
+ORD215,CUST1055,Medina,Electronics,1,290.49,Mada,2024-01-24
+ORD216,CUST1073,Dammam,Clothing,5,360.12,Mada,2024-03-14
+ORD217,CUST1006,Riyadh,Home Appliances,4,402.84,Mada,2024-05-06
+ORD218,CUST1075,Dammam,Beauty,2,223.25,Apple Pay,2024-02-24
+ORD219,CUST1029,Mecca,Clothing,1,105.74,Cash on Delivery,2024-06-27
+ORD220,CUST1071,Riyadh,Home Appliances,4,297.38,Cash on Delivery,2024-01-23
+ORD221,CUST1054,Khobar,Electronics,3,310.12,Apple Pay,2024-04-19
+ORD222,CUST1069,Medina,Clothing,2,315.86,Cash on Delivery,2024-02-02
+ORD223,CUST1068,Medina,Beauty,3,524.11,Apple Pay,2024-05-13
+ORD224,CUST1019,Mecca,Beauty,2,598.75,Cash on Delivery,2024-04-22
+ORD225,CUST1032,Medina,Clothing,4,118.32,Mada,2024-05-09
+ORD226,CUST1024,Dammam,Home Appliances,5,608.69,Mada,2024-02-09
+ORD227,CUST1031,Khobar,Home Appliances,3,490.26,Mada,2024-03-01
+ORD228,CUST1041,Jeddah,Home Appliances,1,780.62,Mada,2024-06-17
+ORD229,CUST1013,Jeddah,Sports,2,137.75,Apple Pay,2024-03-17
+ORD230,CUST1055,Dammam,Clothing,1,105.24,Apple Pay,2024-02-22
+ORD231,CUST1049,Mecca,Electronics,4,29.84,Mada,2024-05-08
+ORD232,CUST1037,Mecca,Electronics,5,130.61,Cash on Delivery,2024-01-02
+ORD233,CUST1031,Mecca,Beauty,4,478.19,Mada,2024-06-19
+ORD234,CUST1074,Jeddah,Clothing,4,520.4,Cash on Delivery,2024-03-21
+ORD235,CUST1033,Khobar,Electronics,2,717.9,Cash on Delivery,2024-06-10
+ORD236,CUST1020,Dammam,Sports,1,396.54,Cash on Delivery,2024-05-12
+ORD237,CUST1023,Khobar,Home Appliances,4,626.98,Cash on Delivery,2024-01-28
+ORD238,CUST1004,Dammam,Beauty,2,189.95,Apple Pay,2024-01-26
+ORD239,CUST1073,Mecca,Beauty,4,179.89,Credit Card,2024-06-12
+ORD240,CUST1047,Medina,Home Appliances,4,340.07,Mada,2024-06-24
+ORD241,CUST1023,Mecca,Beauty,1,614.91,Apple Pay,2024-06-12
+ORD242,CUST1007,Dammam,Home Appliances,1,317.83,Credit Card,2024-01-20
+ORD243,CUST1053,Mecca,Home Appliances,1,472.54,Mada,2024-03-18
+ORD244,CUST1051,Medina,Clothing,4,795.5,Cash on Delivery,2024-02-24
+ORD245,CUST1021,Jeddah,Electronics,2,651.47,Cash on Delivery,2024-06-13
+ORD246,CUST1071,Khobar,Clothing,2,655.42,Apple Pay,2024-06-19
+ORD247,CUST1052,Mecca,Home Appliances,2,612.71,Cash on Delivery,2024-03-31
+ORD248,CUST1029,Dammam,Sports,4,556.21,Mada,2024-05-03
+ORD249,CUST1000,Khobar,Home Appliances,3,299.22,Apple Pay,2024-05-02
+ORD250,CUST1062,Mecca,Beauty,3,517.09,Mada,2024-03-18
